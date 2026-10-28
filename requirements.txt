@@ -1,0 +1,1 @@
+# WakePeek — Python 3.10+, tkinter (stdlib)

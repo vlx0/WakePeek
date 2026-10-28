@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+_trash/
+/_*.py
+/_*.ps1
+/_*.png
